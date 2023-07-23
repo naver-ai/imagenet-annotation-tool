@@ -1,4 +1,4 @@
-# ImageNet Annotation Tool - Frontend (FE)
+# ImageNet Annotation Tool - Frontend (FE) ([ICCV'23 Paper](https://arxiv.org/abs/2303.17595))
 
 [ImageNet](https://image-net.org/) is an iconic training and benchmarking dataset in computer vision. 
 Not only did it set a standard as a computer vision dataset, but it has opened the era of large-scale annotations.
@@ -172,5 +172,10 @@ SOFTWARE.
 ## Citing our work
 
 ```
-Coming soon
+@inproceedings{han2023iccv,
+  title = {Neglected Free Lunch – Learning Image Classifiers Using Annotation Byproducts},
+  author = {Han, Dongyoon and Choe, Junsuk and Chun, Seonghyeok and Chung, John Joon Young and Chang, Minsuk and Yun, Sangdoo and Song, Jean Y. and Oh, Seong Joon},
+  booktitle = {International Conference on Computer Vision (ICCV)},
+  year = {2023}
+}
 ```
