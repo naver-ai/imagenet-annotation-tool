@@ -10,10 +10,7 @@ This repository contains the open-sourced frontend (FE) modules for ImageNet ann
 More precisely, we have replicated the FE interface for [ImageNetV2](https://github.com/modestyachts/ImageNetV2) frontend, which is a careful and faithful reproduction of the original interface.
 We had to rely on this double-replication due to the unavailability of the original ImageNet interface.
 
-This replicated annotation system has been useful for a couple of our internal research at [Naver AI Lab](https://github.com/naver-ai). 
-I hope to share the internal research outputs soonish (throughout 2022).
-We open-source the FE before even publishing our papers in the hope that this tool will help other researchers and practitioners who wish to use the ImageNet annotation tool for their own projects and products.
-
+This replicated annotation system has been used for the [**Neglected Free Lunch**](https://github.com/naver-ai/NeglectedFreeLunch) project, published as an [ICCV'23 Paper](https://arxiv.org/abs/2303.17595).
 
 > Warning: The full annotation system works only when the backend is set up, which we do not support. 
 > However, the repository contains sufficient information for configuring the BE on your own.
